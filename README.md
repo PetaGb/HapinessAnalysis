@@ -30,7 +30,7 @@
 
 
 ## Usage
-- You can start program simply by typing "jupyter lab" command from the right drírectory
+- You can start program simply by typing "jupyter lab" command from the right directory
 
 
 ## Acknowledgements
