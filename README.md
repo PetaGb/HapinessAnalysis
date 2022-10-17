@@ -35,4 +35,4 @@
 
 ## Acknowledgements
 - https://github.com/misohu tutorials helped me with this project
-- Many thanks to https://github.com/ritaly for providing cheatsheet helping me with this very first readme
+- Many thanks to https://github.com/ritaly for providing cheatsheet helping me with this readme
