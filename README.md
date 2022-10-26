@@ -10,8 +10,9 @@
 
 
 ## General Information
-- more info about dataset are avalaible here: https://worldhappiness.report/faq/
-- The data comes from experts under the heading of the United Nations
+- The world Happiness Report ranks countries by their happiness level which is estimated by measuring indicators like  GDP per Capita, Life Expectancy, Freedom, Generosity, Trust Government etc.
+- more info about dataset are avalaible here: https://worldhappiness.report/faq/ and here: https://www.kaggle.com/datasets/unsdsn/world-happiness
+- I focused on indicators of Generosity and GDP per Capita and compared them by two european regions setted up by the report.
 - However, selecting data by "regional indicator" into two groups "Western Europe" and "East and Central Europe", as I did, raise issues from Geographical point of view.  For example, doesn´t have Estonia more common with Finland, and North Macedonia with Greece, than Estonia with North Macedonia? And which parameters makes North Cyprus part of Western Europe?  
 - The aim of my project is just to learn trough displaying relevant and reasonable plots and graphs and to demonstrate some interesting contexts.
 
